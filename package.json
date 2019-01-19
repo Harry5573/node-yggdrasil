@@ -21,7 +21,7 @@
     "authentication"
   ],
   "dependencies": {
-    "phin": "^2.2.1",
+    "request": "^2.88.0",
     "uuid": "^3.1.0"
   },
   "license": "MIT",
